@@ -20,4 +20,4 @@ Software implementations that support the WLCG Token Profile
 
 | Software      | Link | Comment  |
 | ------------- |------| ---------|
-| INDIGO Identity and Access Management           | https://github.com/indigo-iam/iam |  |
+| INDIGO Identity and Access Management           | https://indigo-iam.github.io/docs/v/current |  |
