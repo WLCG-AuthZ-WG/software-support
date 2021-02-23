@@ -14,9 +14,10 @@ Software implementations that support the WLCG Token Profile
 | mod_scitokens | https://github.com/scitokens/apache-scitokens | Apache httpd authentication module.  Example uses include authorising WebDAV access. "prototype quality" |
 | dCache | https://dcache.org/ | AuthZ token support available since dCache v6.1, via the `scitoken` gPlazma module. |
 | xrootd | https://xrootd.slac.stanford.edu/ | AuthZ token support available since xrootd v5.1, via scitoken plugin |
+| StoRM WebDAV | https://github.com/italiangrid/storm-webdav | AuthZ token support sinve v1.3.0. |
 
 # Token issuer software
 
 | Software      | Link | Comment  |
 | ------------- |------| ---------|
-| IAM           | https://github.com/indigo-iam/iam |  |
+| INDIGO Identity and Access Management           | https://github.com/indigo-iam/iam |  |
