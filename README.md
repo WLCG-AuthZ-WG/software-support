@@ -1,5 +1,5 @@
 # Software Support
-Software implementations that support the WLCG Token Profile
+Software implementations that support the [WLCG JWT Token Profile][jwt-profile].
 
 # Library software
 
@@ -21,3 +21,6 @@ Software implementations that support the WLCG Token Profile
 | Software      | Link | Comment  |
 | ------------- |------| ---------|
 | INDIGO Identity and Access Management           | https://indigo-iam.github.io/docs/v/current |  |
+
+
+[jwt-profile]: https://github.com/WLCG-AuthZ-WG/common-jwt-profile/blob/master/profile.md
